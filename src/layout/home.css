@@ -1,0 +1,13 @@
+.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
+    url("../assets/background.jpg") center fixed;
+  height: 100vh;
+}
+.search {
+  height: 80vh;
+}
+img.icon {
+  height: 30px;
+  width: 35px;
+  cursor: pointer;
+}

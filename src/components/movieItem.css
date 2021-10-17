@@ -1,0 +1,6 @@
+img.bookmark {
+  position: "absolute";
+  cursor: "pointer";
+  height: 50px;
+  width: 50px;
+}
